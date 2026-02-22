@@ -1,0 +1,26 @@
+{
+  "name": "css-grid-gen",
+  "version": "1.0.0",
+  "description": "CSS Grid layout generator utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "gen",
+    "grid",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/css-grid-gen.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
